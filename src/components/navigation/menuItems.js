@@ -8,7 +8,7 @@ const menuItems = [
     ],
   },
   {
-    title: "web development2", link:"/user"
+    title: "form", link:"/form"
   },
   {
     title: "web development3",
